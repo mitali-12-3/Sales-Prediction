@@ -1,1 +1,1 @@
-# Sales-Prediction
+This project aims to develop a machine learning model to predict product sales based on factors like product details, outlet information, and historical data, helping retailers make data-driven decisions!
